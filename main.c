@@ -57,6 +57,5 @@ int main(int argc, char *argv[])
             scanf("%c", &oyunCikis);
         } while (oyunCikis == '\n');
     } while (oyunCikis == 'E' || oyunCikis == 'e');
-
     return 0;
 }
