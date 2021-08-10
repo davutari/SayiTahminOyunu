@@ -47,7 +47,7 @@ int main(int argc, char *argv[])
         } while (hak > 0);
         if (oturumSkor == 0)
         {
-            printf("T�m Haklariniz bitti, Dogru Sayi: %d", rasgeleSayi);
+            printf("Tum Haklariniz bitti, Dogru Sayi: %d", rasgeleSayi);
             bilgisayarSkor++;
         }
         printf("Oyuncu Skor=%d, Bilgisayar Skor=%d", oyuncuSkor, bilgisayarSkor);
